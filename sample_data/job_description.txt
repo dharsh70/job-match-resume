@@ -1,0 +1,84 @@
+About the job
+Experience: Fresher
+
+Salary: INR 1000000-1200000 / year (based on experience)
+
+Expected Notice Period: 30 Days
+
+Shift: (GMT+05:30) Asia/Kolkata (IST)
+
+Opportunity Type: Remote
+
+Placement Type: Full Time Permanent position(Payroll and Compliance to be managed by: Leegality)
+
+(*Note: This is a requirement for one of Uplers' client - Leegality)
+
+What do you need for this opportunity?
+
+Must have skills required:
+
+Start-up Experience, Python, Algorithms, Cnn, Datastructures, machine_learning, Ml frameworks, Statistical analysis
+
+Leegality is Looking for: 
+
+What You'll Do
+
+As an ML Engineer, you will develop solutions to interesting technical problems, explore exciting growth opportunities, and have a real impact on our product.
+To ensure success as a machine learning engineer, you should demonstrate solid data science knowledge and experience in a related ML role. A first-class machine learning engineer will be someone whose expertise translates into the enhanced performance of predictive automation software.
+
+
+Responsibilities:
+
+Designing machine learning systems and self-running artificial intelligence (AI) software to automate predictive models.
+Transforming data science prototypes and applying appropriate ML algorithms and tools.
+Solving complex problems with multi-layered data sets and optimizing existing machine learning libraries and frameworks.
+Developing ML algorithms to analyze huge volumes of historical data to make predictions.
+Running tests, performing statistical analysis, and interpreting test results.
+Exposure to generative AI (LLM) based ML architectures
+Experienced in working with CNN.
+Knows how to train and fine-tune CNN-based models.
+Documenting machine learning processes.
+
+
+Requirements:
+
+1+ years of relevant experience in Machine Learning Engineering.
+Advanced proficiency with Python.
+Extensive knowledge of ML frameworks, libraries, data structures, data modeling, and software architecture.
+Superb analytical and problem-solving abilities.
+Great communication and collaboration skills.
+
+
+Preferences:
+
+Start-up experience is good to have.
+Willing to join immediately, ideally. 
+Female candidates are preferred
+
+
+Interview Process -
+
+Technical Round 1 - ML Fundamentals, NLP models 
+Assessment 
+Technical Round 2 - Discussion on the assignment submitted & modify it according to the requirements
+Round 3 - with the Tech Lead - Tech Managerial - Past projects & in-depth knowledge of ML
+
+
+How to apply for this opportunity?
+
+Step 1: Click On Apply! And Register or Login on our portal.
+Step 2: Complete the Screening Form & Upload updated Resume
+Step 3: Increase your chances to get shortlisted & meet the client for the Interview!
+
+
+About Uplers:
+
+Our goal is to make hiring reliable, simple, and fast. Our role will be to help all our talents find and apply for relevant contractual onsite opportunities and progress in their career. We will support any grievances or challenges you may face during the engagement.
+
+(Note: There are many more opportunities apart from this on the portal. Depending on the assessments you clear, you can apply for them as well).
+
+So, if you are ready for a new challenge, a great work environment, and an opportunity to take your career to the next level, don't hesitate to apply today. We are waiting for you!
+
+
+Desired Skills and Experience
+Start-up Experience, Python, Algorithms, Cnn, Datastructures, machine_learning, Ml frameworks, Statistical analysis

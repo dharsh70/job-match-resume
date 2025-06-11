@@ -1,0 +1,8 @@
+pdfplumber
+spacy
+fastapi
+uvicorn
+sentence-transformers
+torch
+PyMuPDF
+python-multipart
