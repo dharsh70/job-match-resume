@@ -1,5 +1,5 @@
 # job-match-resume
-Input: Resume, Job Description. Output: Skills Match%, Missing Skills
+A semantic matching tool that compares job descriptions and resumes using transformer models like MiniLM.
 
 # Resume
 1. Upload your resume.
@@ -24,6 +24,19 @@ Input: Resume, Job Description. Output: Skills Match%, Missing Skills
 # TECH STACK
 Python, StreamLit, scikit-learn, spacy, nltk, pdfplumber, etc (confirm later)
 
-# Future Enhancements(if u can/ if you want to)
-1. Web scrawl through differnet job postings and suggest jobs to apply to based on resume.
-2. Suggest some content to add to resume as a sentence.
+# Features
+- Semantic similarity using Sentence Transformers
+- Resume and job description input APIs
+- Built with FastAPI and Python
+- Extensible for real-time matching and explanations
+
+## Setup
+```bash
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
+
+# TODO
+- Add frontend.
+- Improve Match Explanation.
+- Dockerize
